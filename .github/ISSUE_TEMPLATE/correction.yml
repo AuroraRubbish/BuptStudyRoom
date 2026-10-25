@@ -15,8 +15,8 @@ body:
     id: version
     attributes:
       label: PDF版本
-      description: 请填写封面版本及是否为候选稿。
-      placeholder: Release 1.0.0 候选版
+      description: 请填写封面上的版本号。
+      placeholder: Release 1.0.0
     validations:
       required: true
   - type: dropdown

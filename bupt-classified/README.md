@@ -6,10 +6,10 @@
 
 | 科目 | 当前版本 | PDF 物理页数 | 下载入口 |
 | --- | --- | ---: | --- |
-| 工科数学分析 | Release 1.0.0 候选版 | 743 | [电子版与打印版](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/untagged-0bcd4b62cda615bd8011) |
-| 线性代数 | Release 1.0.0 候选版 | 287 | [电子版与打印版](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/untagged-00f3d289ba2a43af8d64) |
+| 工科数学分析 | Release 1.0.0 | 743 | [电子版与打印版](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/untagged-726b386d24f8b4690f6f) |
+| 线性代数 | Release 1.0.0 | 287 | [电子版与打印版](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/untagged-12316cc6f90984898284) |
 
-候选 PDF 保存在本仓库的 [草稿 Releases](https://github.com/AuroraRubbish/BuptStudyRoom/releases) 中，尚未正式发布。需登录具有相应权限的账号查看。
+每科提供电子版与打印版，附件在对应的Release页面。正式发布前，下载入口仅供具有相应权限的账号查看。
 
 附件使用清晰的英文文件名并配中文标签：`electronic`为电子版，`print`为打印版。
 
@@ -23,11 +23,9 @@
 
 本项目在原作基础上进行知识点分类、习题与解析合册编排及补充解析。详细答案解析均由 AI 生成，使用工具为 ChatGPT-6.1 Sol；请结合教材与自己的推导核对。
 
-原始试题和其他第三方材料的权利归各自权利人所有。原作已有许可按其声明的实际范围适用；本项目尚未另行指定覆盖新增内容的统一许可证。当前保持私有候选状态。
+本项目沿用原作的版权口径：依法有权授权的新增原创排版、分类编排及文字说明，以及补充解析中可由整理者授权的原创内容，采用[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)许可。原作已有许可继续按其原有范围和条件适用。
 
-## 发布准备
-
-[发布准备核查记录](./docs/RELEASE_REVIEW.md)汇总前言验收、现有许可范围、待核实题源及尚未发送的询问稿。许可建议尚未生效，仓库和PDF继续保持私有候选状态。
+原始试题、其他第三方材料、另有许可声明的资产及未随PDF发布的源代码等，不纳入上述新增内容许可。具体权利边界见各册版权页。
 
 ## 勘误与更新
 
