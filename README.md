@@ -1,6 +1,6 @@
 # 巴普特自习室
 
-BuptStudyRoom 用于整理和维护学习资料。
+BuptStudyRoom 用于整理和维护Aurora.（更熟知的名字是R.P. aka “Aegleseeker）就读于BUPT期间的学习资料与项目。
 
 | 项目 | 内容 |
 | --- | --- |
