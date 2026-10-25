@@ -4,12 +4,14 @@
 
 ## 资料与下载
 
-| 科目 | 当前版本 | PDF 物理页数 | 提供形式 |
+| 科目 | 当前版本 | PDF 物理页数 | 下载入口 |
 | --- | --- | ---: | --- |
-| 工科数学分析 | Release 1.0.0 候选版 | 743 | 电子版、打印版 |
-| 线性代数 | Release 1.0.0 候选版 | 287 | 电子版、打印版 |
+| 工科数学分析 | Release 1.0.0 候选版 | 743 | [电子版与打印版](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/untagged-0bcd4b62cda615bd8011) |
+| 线性代数 | Release 1.0.0 候选版 | 287 | [电子版与打印版](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/untagged-00f3d289ba2a43af8d64) |
 
 候选 PDF 保存在本仓库的 [草稿 Releases](https://github.com/AuroraRubbish/BuptStudyRoom/releases) 中，尚未正式发布。需登录具有相应权限的账号查看。
+
+附件使用清晰的英文文件名并配中文标签：`electronic`为电子版，`print`为打印版。
 
 电子版提供题目与解析的双向跳转、目录链接和书签；打印版去掉跳转提示及交互链接，保留纸面目录、页码、双封面和做题空间。两种形式的数学内容与正文编号对应。
 
