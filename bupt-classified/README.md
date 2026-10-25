@@ -6,8 +6,8 @@
 
 | 科目 | 当前版本 | PDF 物理页数 | 下载入口 |
 | --- | --- | ---: | --- |
-| 工科数学分析 | Release 1.0.0 | 743 | [电子版与打印版](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/untagged-726b386d24f8b4690f6f) |
-| 线性代数 | Release 1.0.0 | 287 | [电子版与打印版](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/untagged-12316cc6f90984898284) |
+| 工科数学分析 | Demo 1.0.0 | 743 | [电子版与打印版](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/untagged-44a222af093b89e341ab) |
+| 线性代数 | Demo 1.0.0 | 287 | [电子版与打印版](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/untagged-cc690ddfc5a4245cd797) |
 
 每科提供电子版与打印版，附件在对应的Release页面。正式发布前，下载入口仅供具有相应权限的账号查看。
 
