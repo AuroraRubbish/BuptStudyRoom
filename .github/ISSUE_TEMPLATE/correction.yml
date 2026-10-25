@@ -1,0 +1,67 @@
+name: 勘误反馈
+description: 反馈大邮分类集的题目、答案或排版问题。
+title: "[勘误] "
+body:
+  - type: dropdown
+    id: subject
+    attributes:
+      label: 所属科目
+      options:
+        - 工科数学分析
+        - 线性代数
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: PDF版本
+      description: 请填写封面版本及是否为候选稿。
+      placeholder: Release 1.0.0 候选版
+    validations:
+      required: true
+  - type: dropdown
+    id: edition
+    attributes:
+      label: 文件形式
+      options:
+        - 电子版（带跳转）
+        - 打印版（无跳转）
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: 页码
+      description: 请注明PDF物理页序、内部标签或纸面编号；能同时提供更好。
+      placeholder: 物理第15页，纸面第2页
+    validations:
+      required: true
+  - type: input
+    id: question
+    attributes:
+      label: 题号
+      description: 前言、封面等问题可以不填。
+      placeholder: 1.1.1
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 问题类型
+      options:
+        - 题目错误
+        - 答案错误
+        - 排版错误
+        - 其他
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 问题描述
+      description: 请说明具体位置和错误内容；可附截图或推导。
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 建议修改方式
+      description: 可选，欢迎附上计算、证明或参考依据。

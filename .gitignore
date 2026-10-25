@@ -1,0 +1,23 @@
+# PDF 正式文件及候选稿通过 Releases 保存
+*.pdf
+*.zip
+
+# 本地工作资料与编译文件
+/tmp/
+/output/
+/private/
+*.aux
+*.log
+*.out
+*.toc
+*.xdv
+*.synctex.gz
+*.tmp
+*.bak
+
+# 凭据与系统缓存
+.env
+.env.*
+credentials.json
+Thumbs.db
+.DS_Store
