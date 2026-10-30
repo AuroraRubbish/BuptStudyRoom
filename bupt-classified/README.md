@@ -6,7 +6,7 @@
 
 ## 1.1.0 更新说明
 
-1.1.0的更新说明已同步，新版PDF附件待随对应Release发布。当前公开下载仍为下表中的Demo 1.0.0。
+1.1.0已发布，电子版与打印版见下方下载入口。
 
 - [工科数学分析1.1.0更新说明](./docs/analysis/CHANGELOG.md)
 - [线性代数1.1.0更新说明](./docs/linear-algebra/CHANGELOG.md)
@@ -15,14 +15,14 @@
 
 | 科目 | 已公开版本 | PDF 物理页数 | 下载入口 |
 | --- | --- | ---: | --- |
-| 工科数学分析 | Demo 1.0.0 | 743 | [电子版与打印版](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/analysis-demo-1.0.0) |
-| 线性代数 | Demo 1.0.0 | 287 | [电子版与打印版](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/linear-algebra-demo-1.0.0) |
+| 工科数学分析 | 1.1.0 | 728 | [电子版与打印版](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/analysis-1.1.0) |
+| 线性代数 | 1.1.0 | 283 | [电子版与打印版](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/linear-algebra-1.1.0) |
 
 每科提供电子版与打印版，均可在对应的Release页面公开下载。
 
 附件使用清晰的英文文件名并配中文标签：`electronic`为电子版，`print`为打印版。
 
-电子版提供题目与解析的双向跳转、目录链接和书签；打印版去掉跳转提示及交互链接，保留纸面目录、页码、双封面和做题空间。两种形式的数学内容与正文编号对应。
+电子版提供题目与解析的双向跳转、目录链接和书签；打印版在知识点标题旁列出题目或解析的起始正文页码，保留纸面目录、双封面和做题空间。两种形式的数学内容与正文编号对应。
 
 工科数学分析按《工科数学分析基础》上下册编排，线性代数按《线性代数与几何》编排。具体题源版本与许可范围见各册版权页。
 

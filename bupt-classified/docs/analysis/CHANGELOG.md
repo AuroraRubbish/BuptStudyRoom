@@ -8,7 +8,7 @@
 
 解析由AI生成，分类与解答仍在持续复核，欢迎通过Issues反馈勘误。
 
-> 1.1.0的PDF附件待随对应Release发布；旧版下载不受影响。
+> [下载1.1.0电子版与打印版](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/analysis-1.1.0)。旧版仍可在历史Release中下载。
 
 ## Demo 1.0.0 — 2026-10-26
 
