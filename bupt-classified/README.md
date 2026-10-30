@@ -4,19 +4,19 @@
 
 本项目为独立维护的非官方分类整理。
 
-## 1.1.0 更新说明
+## Demo 1.1.1 更新说明
 
-1.1.0已发布，电子版与打印版见下方下载入口。
+Demo 1.1.1已发布，电子版与打印版见下方下载入口。
 
-- [工科数学分析1.1.0更新说明](./docs/analysis/CHANGELOG.md)
-- [线性代数1.1.0更新说明](./docs/linear-algebra/CHANGELOG.md)
+- [工科数学分析Demo 1.1.1更新说明](./docs/analysis/CHANGELOG.md)
+- [线性代数Demo 1.1.1更新说明](./docs/linear-algebra/CHANGELOG.md)
 
 ## 已公开资料与下载
 
 | 科目 | 已公开版本 | PDF 物理页数 | 下载入口 |
 | --- | --- | ---: | --- |
-| 工科数学分析 | 1.1.0 | 728 | [电子版与打印版](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/analysis-1.1.0) |
-| 线性代数 | 1.1.0 | 283 | [电子版与打印版](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/linear-algebra-1.1.0) |
+| 工科数学分析 | Demo 1.1.1 | 728 | [电子版与打印版](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/classified-demo-1.1.1) |
+| 线性代数 | Demo 1.1.1 | 283 | [电子版与打印版](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/linear-algebra-demo-1.1.1) |
 
 每科提供电子版与打印版，均可在对应的Release页面公开下载。
 

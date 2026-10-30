@@ -1,5 +1,11 @@
 # 工科数学分析更新记录
 
+## Demo 1.1.1 — 2026-10-31
+
+- 恢复Demo标识，简化封面与说明。
+
+[下载电子版与打印版](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/classified-demo-1.1.1)
+
 ## 1.1.0 — 2026-10-31
 
 - 新增各章考点分布与常考题型，配对应例题。
