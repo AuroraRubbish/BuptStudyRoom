@@ -33,7 +33,7 @@
 
 原作是由 [fa_555](https://github.com/FA555) 及各位贡献者编辑的 [《大邮数学集》](https://github.com/ArtveFlinaInBupt/bump-archive)。感谢原编者、贡献者与赞助者的工作和支持。
 
-本项目在原作基础上按知识点重新分类，把习题和解析编成合册，并补写了解析。解析由 AI（ChatGPT 和 Claude）生成，请结合教材和自己的推导核对。
+本项目在原作基础上按知识点重新分类，把习题和解析编成合册，并补写了解析。解析由 AI（ChatGPT 6.1 Sol 和 Claude Opus 5.5）生成，请结合教材和自己的推导核对。
 
 本项目沿用原作的版权口径：依法有权授权的新增原创排版、分类编排及文字说明，以及补充解析中可由整理者授权的原创内容，采用[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)许可。原作已有许可继续按其原有范围和条件适用。
 
