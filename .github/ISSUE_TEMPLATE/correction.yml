@@ -16,7 +16,7 @@ body:
     attributes:
       label: PDF版本
       description: 请填写封面上的版本号。
-      placeholder: Demo 1.1.1
+      placeholder: Demo 1.2.0
     validations:
       required: true
   - type: dropdown
@@ -24,8 +24,10 @@ body:
     attributes:
       label: 文件形式
       options:
-        - 电子版（带跳转）
-        - 打印版（无跳转）
+        - 电子合册（紧凑版）
+        - 电子合册（留白版）
+        - 打印习题册
+        - 打印解析册
     validations:
       required: true
   - type: input
