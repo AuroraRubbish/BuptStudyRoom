@@ -4,9 +4,9 @@
 
 本项目为独立维护的非官方分类整理。
 
-## Demo 1.2.0
+## Demo 1.2.1
 
-这一版补录了工科数学分析的两套期中试卷，同步了原书新版里的勘误，重新核对了分类和部分解析，排版和书写空间也一并做了调整。
+这一版调整了题解间距、书写留白和目录表格，完善了打印册双面排版与电子版导航，题目没有增删。
 
 - [工科数学分析更新说明](./docs/analysis/CHANGELOG.md)
 - [线性代数更新说明](./docs/linear-algebra/CHANGELOG.md)
@@ -15,10 +15,10 @@
 
 | 科目 | 紧凑电子合册 | 留白电子合册 | 打印习题册 | 打印解析册 | 下载入口 |
 | --- | ---: | ---: | ---: | ---: | --- |
-| 工科数学分析 | 719 | 819 | 409 | 431 | [下载](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/analysis-demo-1.2.0) |
-| 线性代数 | 275 | 302 | 117 | 201 | [下载](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/linear-algebra-demo-1.2.0) |
+| 工科数学分析 | 660 | 783 | 423 | 381 | [下载](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/analysis-demo-1.2.1) |
+| 线性代数 | 262 | 297 | 124 | 188 | [下载](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/linear-algebra-demo-1.2.1) |
 
-表中数字为对应 PDF 的实际页数。每科四个文件，均为 Demo 1.2.0。
+表中数字为对应 PDF 的实际页数。每科四个文件，均为 Demo 1.2.1。
 
 - `electronic`：紧凑电子合册，便于阅读和批注。
 - `electronic-workbook`：留白电子合册，每道题后面留了书写空间。

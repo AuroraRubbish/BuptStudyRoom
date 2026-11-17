@@ -1,5 +1,11 @@
 # 线性代数更新记录
 
+## Demo 1.2.1 — 2026-11-17
+
+- 调整题解间距、书写留白和目录表格，完善打印册双面排版与电子版导航。
+
+[下载电子版与打印分册](https://github.com/AuroraRubbish/BuptStudyRoom/releases/tag/linear-algebra-demo-1.2.1)
+
 ## Demo 1.2.0 — 2026-11-11
 
 - 同步了原书新版里核对过的勘误，并改正了一些题面和解析。
